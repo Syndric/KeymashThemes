@@ -18,11 +18,20 @@ Color List
 162,209,220 (light blue)
 174,143,220 (purple)
 21,32,85
+194,196,252
 */
 
 div {
     font-family: "Raleway-Medium", monospace !important;
     font-weight: normal !important;
+}
+
+img[alt="Logo"] {
+    width:0px;
+    height:0px;
+    background-image:url("https://raw.githubusercontent.com/Syndric/KeymashThemes/main/Aegleseeker/AegleseekerKSHLogo.svg")!important;
+    padding: 16px;
+    background-size: 32px;
 }
 
 body {
@@ -171,9 +180,6 @@ body {
     border-color: rgba(174,143,220,var(--tw-border-opacity));
 }
 
-img[alt="Logo"] {
-    filter: saturate(0%) invert(100%) contrast(10) invert(88%) sepia(1%) saturate(2294%) hue-rotate(351deg) brightness(96%) contrast(100%);
-}
 
 .desktopNav-item:hover, .hover\:text-orange-400:hover {
     --tw-text-opacity: 1;
