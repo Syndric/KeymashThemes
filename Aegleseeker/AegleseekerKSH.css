@@ -1,3 +1,12 @@
+/* ==UserStyle==
+@name         AegleseekerKSH
+@version      20211217.03.47
+@namespace    userstyles.world/user/syndric
+@description  CSS Style for Keyma.sh
+@author       syndric
+@license      No License
+==/UserStyle== */
+
 @-moz-document domain("keyma.sh") {
 /*
 Aegleseeker CSS for Keymash
@@ -20,6 +29,15 @@ Color List
 21,32,85
 194,196,252
 */
+#nprogress .bar {
+  background: rgb(162,209,220);
+} 
+
+#nprogress .spinner-icon {
+  border-top-color: rgb(162,209,220);
+  border-bottom-color: rgb(162,209,220);
+  border-left-color: rgb(162,209,220);
+} 
 
 div {
     font-family: "Raleway-Medium", monospace !important;
