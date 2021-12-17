@@ -5,4 +5,4 @@ This requires Stylus to be installed which can be found at https://chrome.google
 
 Fonts have to be installed through Google Fonts
 
-Individual download links on userstyles.world can be found in readme in subfolders
+Individual download links on userstyles.world can be found in subfolders
