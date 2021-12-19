@@ -1,0 +1,202 @@
+@-moz-document domain("keyma.sh") {
+    /*
+    Aegleseeker CSS for Keymash
+    
+    To use font, go to https://fonts.google.com/specimen/Raleway?query=raleway and download
+    Extract
+    Install Raleway/Static/Raleway-Medium.ttf
+    
+    Regular: https://www.dropbox.com/s/opcujn7mkastkpg/AegleseekerBlur.jpg?dl=1
+    Double Blured/Darkened: https://www.dropbox.com/s/3qxuozpqqtg9qs2/AegleseekerBlurBlur.jpg?dl=1
+    
+    Color List
+    180,160,204
+    75,72,182
+    90,121,195 (dark blue)
+    117,182,221
+    169,150,209
+    162,209,220 (light blue)
+    174,143,220 (purple)
+    21,32,85
+    194,196,252
+    */
+    #nprogress .bar {
+      background: rgb(162,209,220);
+    } 
+    
+    #nprogress .spinner-icon {
+      border-top-color: rgb(162,209,220);
+      border-bottom-color: rgb(162,209,220);
+      border-left-color: rgb(162,209,220);
+    } 
+    
+    div {
+        font-family: "Raleway-Medium" !important;
+        font-weight: normal !important;
+    }
+    
+    img[alt="Logo"] {
+        width:0px;
+        height:0px;
+        background-image:url("https://raw.githubusercontent.com/Syndric/KeymashThemes/main/Aegleseeker/misc/AegleseekerKSHLogo.svg")!important;
+        padding: 16px;
+        background-size: 32px;
+    }
+    
+    body {
+        background: url(https://www.dropbox.com/s/3qxuozpqqtg9qs2/AegleseekerBlurBlur.jpg?dl=1) top fixed !important;
+        background-size: cover !important;
+        background-repeat: no-repeat !important;
+        --tw-bg-opacity: 0.9 !important;
+        background-color: rgba(24, 24, 27, var(--tw-bg-opacity)) !important;
+    }
+    
+    .rounded-xl { /* menu" */
+        border-radius: 0.4rem;
+    }
+    
+    .rounded-lg { /* menu */
+        border-radius: 0.3rem;
+    }
+    
+    .rounded-t { /* game */
+        border-radius: 0.2rem;
+    }
+    
+    .bg-gray-750 { /* "quick play" */
+        --tw-bg-opacity: 0.5;
+        background-color: rgba(75,72,182,var(--tw-bg-opacity));
+    }
+    
+    .bg-gray-775 { /* menu bar */
+        --tw-bg-opacity: 0.6;
+        background-color: rgba(39,39,42,var(--tw-bg-opacity));
+    }
+    
+    .bg-gray-800 { /* menu bar */
+        --tw-bg-opacity: 0;
+        background-color: rgba(39,39,42,var(--tw-bg-opacity));
+    }
+    
+    .bg-gray-825, .bg-gray-850, .bg-gray-875 { /* menu bar */
+        --tw-bg-opacity: 0;
+        background-color: rgba(39,39,42,var(--tw-bg-opacity));
+    }
+    
+    .bg-opacity-20 {
+        --tw-bg-opacity: 0.4;
+        background-color: rgba(39,39,42,var(--tw-bg-opacity));
+    }
+    
+    .desktopNav-item.levelbar-active { /* menu bar */
+        background-image: linear-gradient(to right,var(--tw-gradient-stops));
+        --tw-bg-opacity: 0.5;
+        --tw-gradient-from: rgba(180,160,204,var(--tw-bg-opacity));
+        --tw-gradient-stops: var(--tw-gradient-from),var(--tw-gradient-to,rgba(43,43,46,0));
+        --tw-gradient-to: rgba(180,160,204,var(--tw-bg-opacity));
+    }
+    
+    .desktopNav-item.levelbar-active, .desktopNav-item.levelbar-active:after, .desktopNav-item:hover:after { /* menu bar */
+        transform: scaleX(1);
+        --tw-text-opacity: 1;
+        color: rgba(162,209,220,var(--tw-text-opacity));
+    }
+    
+    .desktopNav-item:after { /* menu bar */
+        border-color: rgba(162,209,220,var(--tw-border-opacity));
+    }
+    
+    .border-orange-400 {
+        --tw-border-opacity: 1;
+        border-color: rgba(162,209,220,var(--tw-border-opacity));
+    }
+    
+    .from-gray-750 { /* fat boxes menu */
+        --tw-gradient-from: rgba(75,72,182,0.8);
+        --tw-gradient-stops: var(--tw-gradient-from),var(--tw-gradient-to,rgba(52,52,56,0));
+    }
+    
+    .to-gray-775 { /* fat boxes menu */
+        --tw-gradient-to: rgba(117,182,221,0.6);
+    }
+    
+    .border-b-4, .rounded-xl { /* text */
+        border-width: 3px;
+        border-color: rgba(169,150,209,1);
+    }
+    
+    .text-2xl, .text-white, .text-gray-500 { /* text */
+        color: rgb(225,225,225,1);
+    }
+    
+    .text-orange-400, .desktopNav-item { /* text */
+        --tw-text-opacity: 1;
+        color: rgba(90,121,195,var(--tw-text-opacity));
+    }
+    
+    .match--letter {
+        line-height: 1.5;
+        letter-spacing: 0.14em !important;
+    }
+    
+    .justify-between {
+        background: rgba(21,32,85,0.6);
+    }
+    
+    .caret-idle, .bg-orange-400 {
+        --tw-text-opacity: 1;
+        background-color: rgba(90,121,195,var(--tw-text-opacity)) !important;
+    }
+    
+    .match--input {
+        margin-top: .75rem;
+        width: 100%;
+        border-bottom-width: 2px;
+        --tw-border-opacity: 0.25;
+        padding: .3rem;
+        font-size: .875rem;
+        line-height: 1.25rem;
+        --tw-text-opacity: 1;
+        color: rgba(161,161,170,var(--tw-text-opacity));
+        --tw-shadow: 0 1px 3px 0 rgba(0,0,0,0.1),0 1px 2px 0 rgba(0,0,0,0.06);
+        box-shadow: 0 0 transparent,0 0 transparent,var(--tw-shadow);
+        box-shadow: var(--tw-ring-offset-shadow,0 0 transparent),var(--tw-ring-shadow,0 0 transparent),var(--tw-shadow);
+    }
+    
+    .match--correct {
+        --tw-text-opacity: 0.85;
+        color: rgba(90,121,195,var(--tw-text-opacity));
+    }
+    
+    .bg-red-600 {
+        --tw-bg-opacity: 0.5;
+        background-color: rgba(174,143,220,var(--tw-bg-opacity));
+    }
+    
+    .tracking-wider {
+        --tw-bg-opacity: 1;
+        color: rgba(174,143,220,var(--tw-bg-opacity));
+    }
+    
+    .match--container {
+        border-bottom-right-radius: 0.2rem;
+        border-bottom-left-radius: 0.2rem;
+    
+    }
+    
+    .border-red-400 {
+        --tw-border-opacity: 0.5;
+        border-color: rgba(174,143,220,var(--tw-border-opacity));
+    }
+    
+    
+    .desktopNav-item:hover, .hover\:text-orange-400:hover {
+        --tw-text-opacity: 1;
+        color: rgba(162,209,220,var(--tw-text-opacity));
+    }
+    
+    .hover\:bg-gray-850:hover {
+        --tw-bg-opacity: 0.6;
+        background-color: rgba(174,143,220,var(--tw-bg-opacity));
+    }
+    }
