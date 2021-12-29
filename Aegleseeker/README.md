@@ -1,6 +1,6 @@
 # Aegleseeker CSS for Keymash
 
-To isntall, donwload the style from https://userstyles.world/style/2391/aegleseekerksh
+To install, donwload the style from https://userstyles.world/style/2391/aegleseekerksh
 
 To use font, install Raleway-Medium.ttf
 
