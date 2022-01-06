@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="420" data-name="Layer 1"  xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 420 420" preserveAspectRatio="xMinYMin meet"><rect id="svgEditorBackground" x="0" y="0" width="420" height="420" style="fill:none;stroke:none;"/>
+
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000000" id="svg_1" d="m0,30c0,-16.30137,13.69863,-30,30,-30l360,0c16.30137,0,30,13.69863,30,30l0,360c0,16.30137,-13.69863,30,-30,30l-360,0c-16.30137,0,-30,-13.69863,-30,-30l0,-360Z" opacity="undefined" style="fill:#ffdd57;"/>
+  <rect id="svg_2" fill="#070707" rx="10" height="100" width="100" y="100" x="160" class="cls-2"/>
+  <rect id="svg_3" fill="#070707" rx="10" height="100" width="100" y="220" x="160" class="cls-2"/>
+  <rect id="svg_4" fill="#070707" rx="10" height="100" width="100" y="220" x="280" class="cls-2"/>
+  <rect id="svg_5" fill="#070707" rx="10" height="100" width="100" y="220" x="40" class="cls-2"/>
+ </g>
+</svg>
