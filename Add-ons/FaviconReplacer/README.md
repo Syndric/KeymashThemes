@@ -1,1 +1,2 @@
-Copy and paste the script located in script.js into a new tampermonkey script
+Installation instructions:
+Install tampermonkey from the Chrome web store and then install this script: https://greasyfork.org/en/scripts/438134-keymash-favicon-replacer
