@@ -1,0 +1,1 @@
+Copy and paste the script located in script.js into a new tampermonkey script
