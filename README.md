@@ -1,4 +1,6 @@
 # KeymashThemes
+NOTE: Redownload all css files after March 13 (v3 release)
+
 Custom CSS Themes for Keyma.sh
 
 This requires Stylus to be installed which can be found at https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
