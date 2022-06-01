@@ -1,5 +1,6 @@
 # KeymashThemes
-NOTE: Redownload all css files after March 13 (v3 release)
+Jun 1 22 - Archived because Stylus now supports searching on UserStyles.World
+Jun 1 22 - Redownload for font fixes
 
 Custom CSS Themes for Keyma.sh
 
