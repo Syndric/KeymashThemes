@@ -2,7 +2,9 @@
 
 To install, donwload the style from https://userstyles.world/style/2391/aegleseekerksh
 
-To use font, install Raleway-Medium.ttf
+Install Raleway to use font
+https://fonts.google.com/download?family=Raleway
+Install Raleway-VariableFont_wght.ttf
 
 Backgrounds: 
 Regular: https://www.dropbox.com/s/opcujn7mkastkpg/AegleseekerBlur.jpg?dl=1
