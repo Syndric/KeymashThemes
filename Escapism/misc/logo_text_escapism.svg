@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 2904.76 593.75"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="logo_text_intangible.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.41"
+     inkscape:cx="1028.0488"
+     inkscape:cy="-3.6585366"
+     inkscape:window-width="1296"
+     inkscape:window-height="1081"
+     inkscape:window-x="554"
+     inkscape:window-y="64"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Ebene_4"
+     showguides="false" />
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient28463">
+      <stop
+         style="stop-color:#241c1c;stop-opacity:1"
+         offset="0"
+         id="stop28459" />
+      <stop
+         style="stop-color:#ff7f2a;stop-opacity:1"
+         offset="1"
+         id="stop28461" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient27961">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop27957" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1"
+         offset="1"
+         id="stop27959" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient27587">
+      <stop
+         style="stop-color:#b380ff;stop-opacity:1;"
+         offset="0"
+         id="stop27583" />
+      <stop
+         style="stop-color:#e5d5ff;stop-opacity:1"
+         offset="1"
+         id="stop27585" />
+    </linearGradient>
+    <style
+       id="style2">.cls-1{fill:#fb923c;}.cls-2{fill:#191d29;}.cls-3{fill:#191d27;}.cls-4{fill:#fff;}</style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27587"
+       id="linearGradient27589"
+       x1="612.19513"
+       y1="429.26828"
+       x2="2270.7317"
+       y2="156.09755"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27961"
+       id="linearGradient27963"
+       x1="112.19512"
+       y1="90.243904"
+       x2="597.56097"
+       y2="536.58539"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28463"
+       id="linearGradient28465"
+       x1="317.07318"
+       y1="256.09756"
+       x2="237.70561"
+       y2="86.240974"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="Layer_2"
+     data-name="Layer 2">
+    <g
+       id="Ebene_4"
+       data-name="Ebene 4"
+       style="fill:#000000">
+      <path
+         class="cls-1"
+         d="M319.59,5.62,527.53,125.68a41.94,41.94,0,0,1,20.16,28l48.66,241.62A42,42,0,0,1,576.2,440L319.6,588.13a42,42,0,0,1-42,0L21,440A42,42,0,0,1,.83,395.33L49.49,153.75a41.94,41.94,0,0,1,20.16-28l208-120.08A42,42,0,0,1,319.59,5.62Z"
+         id="path6"
+         style="fill:url(#linearGradient27963);fill-opacity:1" />
+      <path
+         class="cls-2"
+         d="M458.19,208.55,310.25,294a23.35,23.35,0,0,1-23.32,0L139,208.55a23.31,23.31,0,0,1,0-40.38L286.93,82.76a23.33,23.33,0,0,1,23.31,0l148,85.41A23.32,23.32,0,0,1,458.19,208.55Z"
+         id="path8"
+         style="fill:#aa87de;fill-opacity:1" />
+      <path
+         class="cls-1"
+         d="M405.17,182.4a6.41,6.41,0,0,0-2.51-.76l-94.22-10.37a1.18,1.18,0,0,1-.5-.16.51.51,0,0,1-.29-.36L303,127.93a2.46,2.46,0,0,0-1.38-1.79,7.51,7.51,0,0,0-6.85,0L271.7,139.52a2.31,2.31,0,0,0-1.39,2.17l3.39,28.05L277,188.23a.45.45,0,0,1-.27.45l-.54.31a1.51,1.51,0,0,1-1.36,0L234,165.42a7.52,7.52,0,0,0-6.82,0l-21.91,12.73c-1.88,1.09-1.87,2.86,0,3.95l100.56,58.06a7.5,7.5,0,0,0,6.81,0l21.92-12.73c1.87-1.09,1.87-2.86,0-4l-27.71-16a.5.5,0,0,1-.28-.36l-1.43-13.69c0-.37.53-.66,1.15-.58l70.49,8.28a7.31,7.31,0,0,0,4.36-.77l24.1-14c2-1.16,1.75-2.93,0-4"
+         id="path10"
+         style="fill:url(#linearGradient28465);fill-opacity:1" />
+      <path
+         class="cls-3"
+         d="M282.1,340.27V467.81a23.31,23.31,0,0,1-35,20.18L90.26,397.42a23.31,23.31,0,0,1-11.19-24.79l23-114.25a23.31,23.31,0,0,1,34.5-15.58l133.87,77.28A23.32,23.32,0,0,1,282.1,340.27Z"
+         id="path12"
+         style="fill:#4400aa;fill-opacity:1" />
+      <path
+         class="cls-3"
+         d="M315.09,340.3V467.83a23.31,23.31,0,0,0,35,20.19l156.87-90.57a23.3,23.3,0,0,0,11.2-24.79l-23-114.25a23.31,23.31,0,0,0-34.51-15.59L326.74,320.11A23.32,23.32,0,0,0,315.09,340.3Z"
+         id="path14"
+         style="fill:#cc00ff;fill-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;line-height:1.25;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';fill:#5555ff;fill-opacity:1;stroke:none"
+         x="551.87476"
+         y="111.27372"
+         id="text1877"><tspan
+           sodipodi:role="line"
+           x="551.87476"
+           y="111.27372"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:133.333px;font-family:'IBM Plex Mono';-inkscape-font-specification:'IBM Plex Mono';fill:#5555ff"
+           id="tspan4767">Keymash</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:Nasalization;-inkscape-font-specification:Nasalization;fill:#d42aff;fill-opacity:1;stroke:none"
+         x="565.05029"
+         y="546.69312"
+         id="text32269"><tspan
+           sodipodi:role="line"
+           id="tspan32267"
+           x="565.05029"
+           y="546.69312"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:Nasalization;-inkscape-font-specification:Nasalization;fill:#d42aff;fill-opacity:1">By Syndric</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:300px;line-height:1.25;font-family:Nasalization;-inkscape-font-specification:Nasalization;fill:url(#linearGradient27589);fill-opacity:1;stroke:none"
+         x="607.54205"
+         y="388.70456"
+         id="text14913"><tspan
+           sodipodi:role="line"
+           id="tspan14911"
+           x="607.54205"
+           y="388.70456"
+           style="font-size:300px;fill:url(#linearGradient27589);fill-opacity:1">Escapism</tspan></text>
+    </g>
+  </g>
+</svg>
