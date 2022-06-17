@@ -1,6 +1,6 @@
 # Yellow CSS for Keymash
 
-To install, donwload the style from https://userstyles.world/style/2632/yellowksh
+To install, donwload the style from https://userstyles.world/style/5230/escapismksh
 
 Install Nunito to use font
 https://fonts.google.com/download?family=Nunito
