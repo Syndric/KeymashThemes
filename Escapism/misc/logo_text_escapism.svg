@@ -3,7 +3,7 @@
    viewBox="0 0 2904.76 593.75"
    version="1.1"
    id="svg32"
-   sodipodi:docname="logo_text_intangible.svg"
+   sodipodi:docname="logo_text_escapism.svg"
    inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,29 +20,17 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="0.41"
-     inkscape:cx="1028.0488"
-     inkscape:cy="-3.6585366"
+     inkscape:cx="1013.4146"
+     inkscape:cy="25.609756"
      inkscape:window-width="1296"
      inkscape:window-height="1081"
-     inkscape:window-x="554"
-     inkscape:window-y="64"
+     inkscape:window-x="793"
+     inkscape:window-y="152"
      inkscape:window-maximized="0"
      inkscape:current-layer="Ebene_4"
      showguides="false" />
   <defs
      id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient28463">
-      <stop
-         style="stop-color:#241c1c;stop-opacity:1"
-         offset="0"
-         id="stop28459" />
-      <stop
-         style="stop-color:#ff7f2a;stop-opacity:1"
-         offset="1"
-         id="stop28461" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient27961">
@@ -87,15 +75,6 @@
        x2="597.56097"
        y2="536.58539"
        gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient28463"
-       id="linearGradient28465"
-       x1="317.07318"
-       y1="256.09756"
-       x2="237.70561"
-       y2="86.240974"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="Layer_2"
@@ -118,7 +97,7 @@
          class="cls-1"
          d="M405.17,182.4a6.41,6.41,0,0,0-2.51-.76l-94.22-10.37a1.18,1.18,0,0,1-.5-.16.51.51,0,0,1-.29-.36L303,127.93a2.46,2.46,0,0,0-1.38-1.79,7.51,7.51,0,0,0-6.85,0L271.7,139.52a2.31,2.31,0,0,0-1.39,2.17l3.39,28.05L277,188.23a.45.45,0,0,1-.27.45l-.54.31a1.51,1.51,0,0,1-1.36,0L234,165.42a7.52,7.52,0,0,0-6.82,0l-21.91,12.73c-1.88,1.09-1.87,2.86,0,3.95l100.56,58.06a7.5,7.5,0,0,0,6.81,0l21.92-12.73c1.87-1.09,1.87-2.86,0-4l-27.71-16a.5.5,0,0,1-.28-.36l-1.43-13.69c0-.37.53-.66,1.15-.58l70.49,8.28a7.31,7.31,0,0,0,4.36-.77l24.1-14c2-1.16,1.75-2.93,0-4"
          id="path10"
-         style="fill:url(#linearGradient28465);fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <path
          class="cls-3"
          d="M282.1,340.27V467.81a23.31,23.31,0,0,1-35,20.18L90.26,397.42a23.31,23.31,0,0,1-11.19-24.79l23-114.25a23.31,23.31,0,0,1,34.5-15.58l133.87,77.28A23.32,23.32,0,0,1,282.1,340.27Z"
